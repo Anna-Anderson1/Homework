@@ -10,4 +10,4 @@ let pow = function (x,y) {
         console.log(result)
     }
 }
-pow(5,1)
+pow(2,3)
